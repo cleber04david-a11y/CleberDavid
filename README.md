@@ -3,7 +3,7 @@
 - 💼 Hoje trabalho em uma multinacional
 - 👨‍🎓 Formando em Engenharia de Software
 - 📚 Estudando Python
-- 📬 Contete-me no email: cleberdavid723@gmail.com
+- 📬 Contate-me no email: cleberdavid723@gmail.com
 - 😎 Pronouns: ele/dele
 
   <div style="display: inline_block"><br>
